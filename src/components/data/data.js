@@ -49,4 +49,4 @@ const animals = [
     }
   ];
 
-  export default animals;
+  export {animals};
